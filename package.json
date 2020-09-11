@@ -9,7 +9,7 @@
     "test": "jest",
     "build": "tsc",
     "lint": "eslint",
-    "prepare": "npm run-script build",
+    "prepare": "yarn run build",
     "prepublishOnly": "yarn run build"
   },
   "publishConfig": {

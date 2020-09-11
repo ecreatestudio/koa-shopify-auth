@@ -1,0 +1,736 @@
+{
+  "program": {
+    "fileInfos": {
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts": {
+        "version": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "signature": "c9a1f03d6ba0fe3c871eb0dd81622e78fbb61ade70878b34d48a341a690c59e9",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts": {
+        "version": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "signature": "dc47c4fa66b9b9890cf076304de2a9c5201e94b740cffdf09f87296d877d71f6",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts": {
+        "version": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "signature": "7a387c58583dfca701b6c85e0adaf43fb17d590fb16d5b2dc0a2fbd89f35c467",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts": {
+        "version": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "signature": "8a12173c586e95f4433e0c6dc446bc88346be73ffe9ca6eec7aa63c8f3dca7f9",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts": {
+        "version": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "signature": "5f4e733ced4e129482ae2186aae29fde948ab7182844c3a5a51dd346182c7b06",
+        "affectsGlobalScope": false
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.dom.d.ts": {
+        "version": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "signature": "38130cdd16bd2318b9362f9d60dd9670f7e38708bb6131cf11fc78a41b2c34a0",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts": {
+        "version": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "signature": "fb0c09b697dc42afa84d1587e3c994a2f554d2a45635e4f0618768d16a86b69a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts": {
+        "version": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "signature": "46ee15e9fefa913333b61eaf6b18885900b139867d89832a515059b62cf16a17",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts": {
+        "version": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "signature": "43fb1d932e4966a39a41b464a12a81899d9ae5f2c829063f5571b6b87e6d2f9c",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts": {
+        "version": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "signature": "cdccba9a388c2ee3fd6ad4018c640a471a6c060e96f1232062223063b0a5ac6a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts": {
+        "version": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "signature": "42f5e41e5893da663dbf0394268f54f1da4b43dc0ddd2ea4bf471fe5361d6faf",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts": {
+        "version": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "signature": "0b7a905675e6cb4211c128f0a3aa47d414b275180a299a9aad5d3ec298abbfc4",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts": {
+        "version": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "signature": "dfff68b3c34338f6b307a25d4566de15eed7973b0dc5d69f9fde2bcac1c25315",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts": {
+        "version": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "signature": "cb609802a8698aa28b9c56331d4b53f590ca3c1c3a255350304ae3d06017779d",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts": {
+        "version": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "signature": "3013574108c36fd3aaca79764002b3717da09725a36a6fc02eac386593110f93",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts": {
+        "version": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "signature": "4670208dd7da9d6c774ab1b75c1527a810388c7989c4905de6aaea8561cb9dce",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts": {
+        "version": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "signature": "3be5a1453daa63e031d266bf342f3943603873d890ab8b9ada95e22389389006",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts": {
+        "version": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "signature": "17bb1fc99591b00515502d264fa55dc8370c45c5298f4a5c2083557dccba5a2a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts": {
+        "version": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "signature": "b5e4c2d67aa844ed503b29cd4ca2ede1a229ac7fe874613b2c996fa9c581a25f",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts": {
+        "version": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "signature": "6a6b173e739a6a99629a8594bfb294cc7329bfb7b227f12e1f7c11bc163b8577",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts": {
+        "version": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "signature": "12a310447c5d23c7d0d5ca2af606e3bd08afda69100166730ab92c62999ebb9d",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts": {
+        "version": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "signature": "b0124885ef82641903d232172577f2ceb5d3e60aed4da1153bab4221e1f6dd4e",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts": {
+        "version": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "signature": "0eb85d6c590b0d577919a79e0084fa1744c1beba6fd0d4e951432fa1ede5510a",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts": {
+        "version": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "signature": "a40c4d82bf13fcded295ac29f354eb7d40249613c15e07b53f2fc75e45e16359",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts": {
+        "version": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "signature": "df9c8a72ca8b0ed62f5470b41208a0587f0f73f0a7db28e5a1272cf92537518e",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts": {
+        "version": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "signature": "bb2d3fb05a1d2ffbca947cc7cbc95d23e1d053d6595391bd325deb265a18d36c",
+        "affectsGlobalScope": true
+      },
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts": {
+        "version": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "signature": "c80df75850fea5caa2afe43b9949338ce4e2de086f91713e9af1a06f973872b8",
+        "affectsGlobalScope": true
+      },
+      "../src/types.ts": {
+        "version": "916a1b19247740325dd12a412b4d63b3418cf6f282981a8dcb43c0bc7fccdaf4",
+        "signature": "6e8a15de01795f62c01a89498bae0038f0495ac4c1eb5636e67dc61aa4ff6b18",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/errors.ts": {
+        "version": "ca6a325ea27b7624d7835e0925b5bbccf7bf9c956eea676dc7ded36d339dab13",
+        "signature": "736f33568629ac215ef0344b6d78872a5a70064ecf6700fa420137dfc39947ab",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/cookie-options.ts": {
+        "version": "a5687d2cea00a9e155846df1e0ea1249e5be541bd3f5f77e7d87fd885f85329e",
+        "signature": "c11a9e1ad850b94669614899fd4cd497a9266f25978829377b0c0678614cdda8",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/oauth-query-string.ts": {
+        "version": "f669d0f624cec2cca688168889615316aaa8f2bf1dadd95a6c513a61a95d22c1",
+        "signature": "364211cde25e28f27ce1229af9aecfc762122bd613f4824a6fe02fcd656d648b",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-oauth-start.ts": {
+        "version": "45df79c662ce2026485a99233ec3c4f9f65b04776d84235e1f354d1e943f6179",
+        "signature": "c9752a9381bc1a459771c47a4b858f702d7f04021fdd63bb199c734a212d42db",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/validate-hmac.ts": {
+        "version": "cb27aff15f2e790427b3f15c92087d057f8d8b97ea29dfa7055838695ac912c2",
+        "signature": "40797522b070933840de2d2ed4cc0eeb93eaf0f9b4ee15bfca70708f08720fd2",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-oauth-callback.ts": {
+        "version": "1ff457e080bec3226456d9f06817e097f2e41144622afe445fcd2d9cd9521d7d",
+        "signature": "5173ef78124cbc56a2bf95a2422b4f99a84d905335d074e72291140edc3ffb88",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/polaris-css.ts": {
+        "version": "f08add942fdae96e7d64d2fb7e3db7b7b76fea8f755c2cad9f47dd3ad766b680",
+        "signature": "5dff1aff460a7d1140a1b2b4679bf8d42885e4b4b77968ec8754da51c7f4c6df",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/itp-helper.ts": {
+        "version": "f6584ffbe4eb123cef5ad2ac76e0a0e119efc854884dca5fefba737ae34d64f5",
+        "signature": "2d87a41991b81be29ed6b9ac1f3a905bf136df653a5e517aed7620b70c68fcb8",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/top-level-interaction.ts": {
+        "version": "3ff365ed68e046c84bfa444f54c57db57369d3431e2422737bf59ce337ef333d",
+        "signature": "8c2c738078af0d7b0d6c6c91ce199785a75453d9717b5a9fc192f1e3f150d51b",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-enable-cookies.ts": {
+        "version": "e51a238d692a250a0c35888aa67a00f79fa420fd59f50387a68979e4d349a9db",
+        "signature": "e4350d20cbf9459ad9a8e5a1377b70be06d1eb6a784b80092d13bc6e1412d875",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/redirection-page.ts": {
+        "version": "7a059fb340ab0aa9c6d7ce1e9a9c3edba7115a1dff2906f853d93eae295d41a0",
+        "signature": "9eac3ffcb92b345cd59918ec0e2e714dc76f0cfb15ceedd33ae2d9cb6bb168cc",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-top-level-redirect.ts": {
+        "version": "38eb6f337a138198498ed90ccd741bcb8396f0a858b0eee248f3c36a93e7b002",
+        "signature": "cb5079f19219786eb2a03cd1ca5e28b17aab906f76e80b32d6ae45b49df25c30",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-top-level-oauth-redirect.ts": {
+        "version": "5969238e9531b9e000d43494c36948fe4602eab1898c41781e2bed611a3ff5ca",
+        "signature": "f5cab9b70a59c6c6d9144bb9aac378b29797fa4cbf5d8d55e12b5f1081fb606d",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/request-storage-access.ts": {
+        "version": "7653be54e3a156a97d9ded1ab0dc726ddaba0435c61d3e43a409714f107bae8f",
+        "signature": "bcc45038db3483f82195cff2b1411d7129ab13b3e56a1307203264adc83727a7",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/client/storage-access-helper.ts": {
+        "version": "175e07ab5f18f2fa3aa2dcc4d08f6304627d47f2260327019ff78efd852f191f",
+        "signature": "c89288fe4af2bb98980426a012136630fa77de08f27f3a725b936f9fa24b84dc",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/create-request-storage-access.ts": {
+        "version": "67448e777bd91627a6aafd5571f6a9f1ef09eed40cc5204d6f666718ad327212",
+        "signature": "ae822aa0ffb2e176a00d03f28aa8f26fcec1fb055d5abe94b685838fba4f47c3",
+        "affectsGlobalScope": false
+      },
+      "../src/auth/index.ts": {
+        "version": "f80e69ddbaa31db24d81dfdc1363ea9dd2c1b2cb08ef3b1ea660a0957896a99b",
+        "signature": "9b010560166719e425ac0e7c75060e4221ebce30ca58fea230938f56dd7fbf3a",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/types.ts": {
+        "version": "432fa2cc8a175ef3e620d5ee1292efba294c56b141b39edf046b53dcd8d1e8d2",
+        "signature": "70bc554688d7904f692323a228dcb97b2a842120025bb81b500c894122310621",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/utilities.ts": {
+        "version": "72e3145d1b7585bfa06bac9b09546bbc91704fe729dfa27520f28840486fd808",
+        "signature": "4c8e0bce715ed52ac25421ce671c65353920347d340ddaf66e4541d0390d3d08",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/login-again-if-different-shop.ts": {
+        "version": "48f3b3e475264444e7de4160b2f2dbd8f0cd926fe4bf4680fdd504a9e680b5aa",
+        "signature": "4a95b555e807563a8f9e4f3c33559fe6bac01a70d7c494ae197b92f56eb720fa",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/verify-token.ts": {
+        "version": "c9abd9cb9c0ab15257795d1611e208e8a79d13a7c7d6404fa30313555aadb06b",
+        "signature": "ee19f79923c5608a16244e93de37c94c9e0f99683eadb41ccd00addb0db0cd37",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/verify-request.ts": {
+        "version": "ce1135790c1c93add4a5f204fe9a4209de89ab675f8e6ae3e3413f00edee3601",
+        "signature": "87a56ecfe886157f95c4114ccdc7ad31e3dc59f91c45aa3577cffa6868c6c8d3",
+        "affectsGlobalScope": false
+      },
+      "../src/verify-request/index.ts": {
+        "version": "db0ba851b4691ccbc0f4b49a71e55567df6fe3acfd5d22887370dee7a0074ca5",
+        "signature": "9843302385e47a887ed7a644c1c58c38d5e5bcfb73d13781f6ce3021592f0090",
+        "affectsGlobalScope": false
+      },
+      "../src/index.ts": {
+        "version": "e9135a0a0acd23e8a1e940df6acadee025cbc56f7b7f88938ba5fd583ff9215a",
+        "signature": "cddb75a7055917dcb12ef86a967e68dbb249016d96479b2ad7496d8ac888ba8b",
+        "affectsGlobalScope": false
+      }
+    },
+    "options": {
+      "composite": true,
+      "declaration": true,
+      "declarationMap": true,
+      "pretty": true,
+      "moduleResolution": 2,
+      "target": 1,
+      "downlevelIteration": true,
+      "esModuleInterop": true,
+      "jsx": 2,
+      "strictNullChecks": true,
+      "noImplicitAny": false,
+      "sourceMap": false,
+      "noEmitOnError": false,
+      "experimentalDecorators": true,
+      "noUnusedParameters": true,
+      "noUnusedLocals": true,
+      "importHelpers": true,
+      "lib": [
+        "lib.dom.d.ts",
+        "lib.dom.iterable.d.ts",
+        "lib.es2015.d.ts",
+        "lib.es2016.d.ts",
+        "lib.es2017.d.ts",
+        "lib.es2018.d.ts",
+        "lib.es2018.asynciterable.d.ts"
+      ],
+      "typeRoots": [
+        "../../node_modules/@types"
+      ],
+      "outDir": "./",
+      "baseUrl": "..",
+      "rootDir": "..",
+      "configFilePath": "../tsconfig.json"
+    },
+    "referencedMap": {
+      "../src/auth/create-enable-cookies.ts": [
+        "../src/auth/client/itp-helper.ts",
+        "../src/auth/client/polaris-css.ts",
+        "../src/auth/client/top-level-interaction.ts",
+        "../src/auth/errors.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-oauth-callback.ts": [
+        "../src/auth/errors.ts",
+        "../src/auth/validate-hmac.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-oauth-start.ts": [
+        "../src/auth/cookie-options.ts",
+        "../src/auth/errors.ts",
+        "../src/auth/index.ts",
+        "../src/auth/oauth-query-string.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-request-storage-access.ts": [
+        "../src/auth/client/itp-helper.ts",
+        "../src/auth/client/polaris-css.ts",
+        "../src/auth/client/request-storage-access.ts",
+        "../src/auth/client/storage-access-helper.ts",
+        "../src/auth/errors.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/create-top-level-oauth-redirect.ts": [
+        "../src/auth/cookie-options.ts",
+        "../src/auth/create-top-level-redirect.ts",
+        "../src/auth/index.ts"
+      ],
+      "../src/auth/create-top-level-redirect.ts": [
+        "../src/auth/redirection-page.ts"
+      ],
+      "../src/auth/index.ts": [
+        "../src/auth/create-enable-cookies.ts",
+        "../src/auth/create-oauth-callback.ts",
+        "../src/auth/create-oauth-start.ts",
+        "../src/auth/create-request-storage-access.ts",
+        "../src/auth/create-top-level-oauth-redirect.ts",
+        "../src/auth/errors.ts",
+        "../src/auth/validate-hmac.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/oauth-query-string.ts": [
+        "../src/auth/cookie-options.ts",
+        "../src/types.ts"
+      ],
+      "../src/index.ts": [
+        "../src/auth/index.ts",
+        "../src/verify-request/index.ts"
+      ],
+      "../src/verify-request/index.ts": [
+        "../src/verify-request/verify-request.ts"
+      ],
+      "../src/verify-request/login-again-if-different-shop.ts": [
+        "../src/types.ts",
+        "../src/verify-request/types.ts",
+        "../src/verify-request/utilities.ts"
+      ],
+      "../src/verify-request/utilities.ts": [
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/verify-request.ts": [
+        "../src/verify-request/login-again-if-different-shop.ts",
+        "../src/verify-request/types.ts",
+        "../src/verify-request/verify-token.ts"
+      ],
+      "../src/verify-request/verify-token.ts": [
+        "../src/index.ts",
+        "../src/types.ts",
+        "../src/verify-request/types.ts",
+        "../src/verify-request/utilities.ts"
+      ]
+    },
+    "exportedModulesMap": {
+      "../src/auth/create-enable-cookies.ts": [
+        "../src/types.ts"
+      ],
+      "../src/auth/create-oauth-callback.ts": [
+        "../src/types.ts"
+      ],
+      "../src/auth/create-oauth-start.ts": [
+        "../src/types.ts"
+      ],
+      "../src/auth/create-request-storage-access.ts": [
+        "../src/types.ts"
+      ],
+      "../src/auth/index.ts": [
+        "../src/auth/errors.ts",
+        "../src/auth/validate-hmac.ts",
+        "../src/types.ts"
+      ],
+      "../src/auth/oauth-query-string.ts": [
+        "../src/types.ts"
+      ],
+      "../src/index.ts": [
+        "../src/auth/index.ts",
+        "../src/verify-request/index.ts"
+      ],
+      "../src/verify-request/index.ts": [
+        "../src/verify-request/verify-request.ts"
+      ],
+      "../src/verify-request/login-again-if-different-shop.ts": [
+        "../src/types.ts",
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/utilities.ts": [
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/verify-request.ts": [
+        "../src/verify-request/types.ts"
+      ],
+      "../src/verify-request/verify-token.ts": [
+        "../src/types.ts",
+        "../src/verify-request/types.ts"
+      ]
+    },
+    "semanticDiagnosticsPerFile": [
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.dom.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.core.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2016.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.intl.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.object.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.sharedmemory.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.string.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2017.typedarrays.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.asyncgenerator.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.asynciterable.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.intl.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.promise.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es2018.regexp.d.ts",
+      "../../../../usr/local/lib/node_modules/typescript/lib/lib.es5.d.ts",
+      "../src/auth/client/itp-helper.ts",
+      "../src/auth/client/polaris-css.ts",
+      "../src/auth/client/request-storage-access.ts",
+      "../src/auth/client/storage-access-helper.ts",
+      "../src/auth/client/top-level-interaction.ts",
+      [
+        "../src/auth/cookie-options.ts",
+        [
+          {
+            "file": "../src/auth/cookie-options.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/cookie-options.ts",
+            "start": 96,
+            "length": 6,
+            "messageText": "This syntax requires an imported helper but module 'tslib' cannot be found.",
+            "category": 1,
+            "code": 2354
+          }
+        ]
+      ],
+      [
+        "../src/auth/create-enable-cookies.ts",
+        [
+          {
+            "file": "../src/auth/create-enable-cookies.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/auth/create-oauth-callback.ts",
+        [
+          {
+            "file": "../src/auth/create-oauth-callback.ts",
+            "start": 24,
+            "length": 13,
+            "messageText": "Cannot find module 'querystring' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/create-oauth-callback.ts",
+            "start": 62,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/create-oauth-callback.ts",
+            "start": 1237,
+            "length": 6,
+            "messageText": "Cannot find name 'Buffer'. Do you need to install type definitions for node? Try `npm i @types/node`.",
+            "category": 1,
+            "code": 2580
+          }
+        ]
+      ],
+      [
+        "../src/auth/create-oauth-start.ts",
+        [
+          {
+            "file": "../src/auth/create-oauth-start.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/auth/create-request-storage-access.ts",
+        [
+          {
+            "file": "../src/auth/create-request-storage-access.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/auth/create-top-level-oauth-redirect.ts",
+        [
+          {
+            "file": "../src/auth/create-top-level-oauth-redirect.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/auth/create-top-level-redirect.ts",
+        [
+          {
+            "file": "../src/auth/create-top-level-redirect.ts",
+            "start": 24,
+            "length": 13,
+            "messageText": "Cannot find module 'querystring' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/create-top-level-redirect.ts",
+            "start": 62,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "../src/auth/errors.ts",
+      [
+        "../src/auth/index.ts",
+        [
+          {
+            "file": "../src/auth/index.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/auth/oauth-query-string.ts",
+        [
+          {
+            "file": "../src/auth/oauth-query-string.ts",
+            "start": 24,
+            "length": 13,
+            "messageText": "Cannot find module 'querystring' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/oauth-query-string.ts",
+            "start": 62,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/oauth-query-string.ts",
+            "start": 87,
+            "length": 7,
+            "messageText": "Cannot find module 'nonce' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "../src/auth/redirection-page.ts",
+      [
+        "../src/auth/validate-hmac.ts",
+        [
+          {
+            "file": "../src/auth/validate-hmac.ts",
+            "start": 24,
+            "length": 13,
+            "messageText": "Cannot find module 'querystring' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/validate-hmac.ts",
+            "start": 58,
+            "length": 8,
+            "messageText": "Cannot find module 'crypto' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/validate-hmac.ts",
+            "start": 91,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/auth/validate-hmac.ts",
+            "start": 122,
+            "length": 14,
+            "messageText": "Cannot find module 'safe-compare' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "../src/index.ts",
+      [
+        "../src/types.ts",
+        [
+          {
+            "file": "../src/types.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "../src/verify-request/index.ts",
+      [
+        "../src/verify-request/login-again-if-different-shop.ts",
+        [
+          {
+            "file": "../src/verify-request/login-again-if-different-shop.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      "../src/verify-request/types.ts",
+      [
+        "../src/verify-request/utilities.ts",
+        [
+          {
+            "file": "../src/verify-request/utilities.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/verify-request/verify-request.ts",
+        [
+          {
+            "file": "../src/verify-request/verify-request.ts",
+            "start": 20,
+            "length": 13,
+            "messageText": "Cannot find module 'koa-compose' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ],
+      [
+        "../src/verify-request/verify-token.ts",
+        [
+          {
+            "file": "../src/verify-request/verify-token.ts",
+            "start": 22,
+            "length": 5,
+            "messageText": "Cannot find module 'koa' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          },
+          {
+            "file": "../src/verify-request/verify-token.ts",
+            "start": 70,
+            "length": 18,
+            "messageText": "Cannot find module '@shopify/network' or its corresponding type declarations.",
+            "category": 1,
+            "code": 2307
+          }
+        ]
+      ]
+    ]
+  },
+  "version": "4.0.2"
+}

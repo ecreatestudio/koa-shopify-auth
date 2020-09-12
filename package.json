@@ -7,7 +7,7 @@
   "types": "dist/src/index.d.ts",
   "scripts": {
     "test": "jest",
-    "prepare": "yarn run build",
+    "prepare": "npm run build",
     "build": "tsc",
     "lint": "eslint",
     "prepublishOnly": "yarn run build"
@@ -18,7 +18,7 @@
   "author": "Shopify Inc.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shopify/koa-shopify-auth.git"
+    "url": "git+https://github.com/ecreatestudio/koa-shopify-auth.git"
   },
   "bugs": {
     "url": "https://github.com/Shopify/koa-shopify-auth/issues"

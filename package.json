@@ -7,9 +7,9 @@
   "types": "dist/src/index.d.ts",
   "scripts": {
     "test": "jest",
+    "prepare": "npm run build",
     "build": "tsc",
     "lint": "eslint",
-    "prepare": "yarn run build",
     "prepublishOnly": "yarn run build"
   },
   "publishConfig": {

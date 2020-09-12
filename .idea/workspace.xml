@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ef728f9-71cf-40b6-b09e-637c232ebdd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/auth/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599885950386</updated>
-      <workItem from="1599885951569" duration="4013000" />
+      <workItem from="1599885951569" duration="4224000" />
     </task>
     <servers />
   </component>

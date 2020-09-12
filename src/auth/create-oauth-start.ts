@@ -7,10 +7,12 @@ import oAuthQueryString from './oauth-query-string';
 import getCookieOptions from './cookie-options';
 
 import {TOP_LEVEL_OAUTH_COOKIE_NAME} from './index';
+import redirectionPage from "./redirection-page";
 
 export default function createOAuthStart(
   options: OAuthStartOptions,
   callbackPath: string,
+  apiKey: string
 ) {
   return function oAuthStart(ctx: Context) {
     const {myShopifyDomain} = options;
@@ -27,12 +29,24 @@ export default function createOAuthStart(
       return;
     }
 
-    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
-
     const formattedQueryString = oAuthQueryString(ctx, options, callbackPath);
 
+    const redirectString = `https://${shop}/admin/oauth/authorize?${formattedQueryString}`;
+
+    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
+
+    ctx.body = redirectionPage({
+      origin: shop,
+      redirectTo: redirectString,
+      apiKey,
+    });
+
+    return;
+
+    /*
     ctx.redirect(
       `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,
     );
+    */
   };
 }

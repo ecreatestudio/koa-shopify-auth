@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2ef728f9-71cf-40b6-b09e-637c232ebdd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/index.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hOdD5X8MFkza1f7lVnAlMpU1ZI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef728f9-71cf-40b6-b09e-637c232ebdd1" name="Default Changelist" comment="" />
+      <created>1599885950386</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599885950386</updated>
+      <workItem from="1599885951569" duration="4013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="839" y="379" width="298" height="217" key="#ESLint" timestamp="1599887643677">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state x="839" y="379" width="298" height="217" key="#ESLint/67.27.1853.923@67.27.1853.923" timestamp="1599887643677" />
+    <state width="1807" height="236" key="GridCell.Tab.0.bottom" timestamp="1599951185252">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="236" key="GridCell.Tab.0.bottom/67.27.1853.923@67.27.1853.923" timestamp="1599951185252" />
+    <state width="1807" height="236" key="GridCell.Tab.0.center" timestamp="1599951185250">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="236" key="GridCell.Tab.0.center/67.27.1853.923@67.27.1853.923" timestamp="1599951185250" />
+    <state width="1807" height="236" key="GridCell.Tab.0.left" timestamp="1599951185249">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="236" key="GridCell.Tab.0.left/67.27.1853.923@67.27.1853.923" timestamp="1599951185249" />
+    <state width="1807" height="236" key="GridCell.Tab.0.right" timestamp="1599951185251">
+      <screen x="67" y="27" width="1853" height="923" />
+    </state>
+    <state width="1807" height="236" key="GridCell.Tab.0.right/67.27.1853.923@67.27.1853.923" timestamp="1599951185251" />
+  </component>
+</project>

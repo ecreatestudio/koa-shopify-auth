@@ -37,7 +37,7 @@ export default function createOAuthStart(
     ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '1', getCookieOptions(ctx));
 
     ctx.body = redirectionPage({
-      origin: `https://${host}`,
+      origin: host,
       redirectTo: redirectString,
       apiKey,
     });

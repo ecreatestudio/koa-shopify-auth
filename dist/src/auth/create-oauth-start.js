@@ -25,10 +25,8 @@ function createOAuthStart(options, callbackPath, apiKey) {
                 apiKey: apiKey,
             });
         };
-        return function oauthStart(ctx) {
-            ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '', cookie_options_1.default(ctx));
-            shopRedirect(ctx);
-        };
+        ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '1', cookie_options_1.default(ctx));
+        shopRedirect(ctx);
         /*
         ctx.redirect(
           `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,

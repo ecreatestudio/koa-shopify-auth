@@ -21,7 +21,7 @@ function createOAuthStart(options, callbackPath, apiKey) {
         var redirectString = "https://" + shop + "/admin/oauth/authorize?" + formattedQueryString;
         ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '1', cookie_options_1.default(ctx));
         ctx.body = redirection_page_1.default({
-            origin: "https://" + host,
+            origin: host,
             redirectTo: redirectString,
             apiKey: apiKey,
         });

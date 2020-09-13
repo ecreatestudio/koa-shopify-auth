@@ -517,8 +517,8 @@
         "affectsGlobalScope": false
       },
       "../src/auth/create-oauth-start.ts": {
-        "version": "1afa90aee90f564e9701b1ca330c7ed7c48c4613962bbdc573d5dcbaff4d4a5c",
-        "signature": "e864cf206d12c09a14d78bfcb2bf6d9a1c05f877885a4ebcd3bc900c1364c021",
+        "version": "b11d4a3eeaa777a1e5395b9882017785fbf8c09b30cb00323b810553bb10fba7",
+        "signature": "974fe245718e0ce3f795fc38ba46b415b9f7340c6b92244087be60d449b50ece",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/safe-compare/index.d.ts": {

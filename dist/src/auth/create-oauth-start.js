@@ -18,13 +18,17 @@ function createOAuthStart(options, callbackPath, apiKey) {
         }
         var formattedQueryString = oauth_query_string_1.default(ctx, options, callbackPath);
         var redirectString = "https://" + shop + "/admin/oauth/authorize?" + formattedQueryString;
-        ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '', cookie_options_1.default(ctx));
-        ctx.body = redirection_page_1.default({
-            origin: shop,
-            redirectTo: redirectString,
-            apiKey: apiKey,
-        });
-        return;
+        var shopRedirect = function topLevelShopRedirect(ctx) {
+            ctx.body = redirection_page_1.default({
+                origin: shop,
+                redirectTo: redirectString,
+                apiKey: apiKey,
+            });
+        };
+        return function oauthStart(ctx) {
+            ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '', cookie_options_1.default(ctx));
+            shopRedirect(ctx);
+        };
         /*
         ctx.redirect(
           `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,

@@ -517,7 +517,7 @@
         "affectsGlobalScope": false
       },
       "../src/auth/create-oauth-start.ts": {
-        "version": "4952244dae6f7671c5e856d26c70041e6b2476c630fcf95652495f8936bbba87",
+        "version": "639fbf3c8f9f82bdd71d55d94b36115bdf5b7f37c5e8216848b520724b97f170",
         "signature": "e864cf206d12c09a14d78bfcb2bf6d9a1c05f877885a4ebcd3bc900c1364c021",
         "affectsGlobalScope": false
       },

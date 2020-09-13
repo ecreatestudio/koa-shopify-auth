@@ -11,6 +11,7 @@ function createOAuthStart(options, callbackPath, apiKey) {
         var myShopifyDomain = options.myShopifyDomain;
         var query = ctx.query;
         var shop = query.shop;
+        var host = ctx.request.header.host;
         var shopRegex = new RegExp("^[a-z0-9][a-z0-9\\-]*[a-z0-9]\\." + myShopifyDomain + "$", 'i');
         if (shop == null || !shopRegex.test(shop)) {
             ctx.throw(400, errors_1.default.ShopParamMissing);
@@ -18,15 +19,12 @@ function createOAuthStart(options, callbackPath, apiKey) {
         }
         var formattedQueryString = oauth_query_string_1.default(ctx, options, callbackPath);
         var redirectString = "https://" + shop + "/admin/oauth/authorize?" + formattedQueryString;
-        var shopRedirect = function topLevelShopRedirect(ctx) {
-            ctx.body = redirection_page_1.default({
-                origin: 'https://shiplash.herokuapp.com',
-                redirectTo: redirectString,
-                apiKey: apiKey,
-            });
-        };
         ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '1', cookie_options_1.default(ctx));
-        shopRedirect(ctx);
+        ctx.body = redirection_page_1.default({
+            origin: "https://" + host,
+            redirectTo: redirectString,
+            apiKey: apiKey,
+        });
         /*
         ctx.redirect(
           `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,

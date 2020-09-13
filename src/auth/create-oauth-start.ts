@@ -33,15 +33,18 @@ export default function createOAuthStart(
 
     const redirectString = `https://${shop}/admin/oauth/authorize?${formattedQueryString}`;
 
-    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
+    const shopRedirect = function topLevelShopRedirect (ctx: Context) {
+      ctx.body = redirectionPage({
+        origin: shop,
+        redirectTo: redirectString,
+        apiKey,
+      });
+    };
 
-    ctx.body = redirectionPage({
-      origin: shop,
-      redirectTo: redirectString,
-      apiKey,
-    });
-
-    return;
+    return function oauthStart(ctx: Context) {
+      ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
+      shopRedirect(ctx);
+    }
 
     /*
     ctx.redirect(

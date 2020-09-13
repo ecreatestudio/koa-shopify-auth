@@ -40,11 +40,9 @@ export default function createOAuthStart(
         apiKey,
       });
     };
-
-    return function oauthStart(ctx: Context) {
-      ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
-      shopRedirect(ctx);
-    }
+    
+    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '1', getCookieOptions(ctx));
+    shopRedirect(ctx);
 
     /*
     ctx.redirect(

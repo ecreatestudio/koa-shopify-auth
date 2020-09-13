@@ -20,7 +20,7 @@ function createOAuthStart(options, callbackPath, apiKey) {
         var redirectString = "https://" + shop + "/admin/oauth/authorize?" + formattedQueryString;
         var shopRedirect = function topLevelShopRedirect(ctx) {
             ctx.body = redirection_page_1.default({
-                origin: shop,
+                origin: 'https://shiplash.herokuapp.com',
                 redirectTo: redirectString,
                 apiKey: apiKey,
             });

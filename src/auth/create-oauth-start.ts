@@ -35,12 +35,12 @@ export default function createOAuthStart(
 
     const shopRedirect = function topLevelShopRedirect (ctx: Context) {
       ctx.body = redirectionPage({
-        origin: shop,
+        origin: 'https://shiplash.herokuapp.com',
         redirectTo: redirectString,
         apiKey,
       });
     };
-    
+
     ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '1', getCookieOptions(ctx));
     shopRedirect(ctx);
 

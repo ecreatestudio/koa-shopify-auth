@@ -18,6 +18,7 @@ export default function createOAuthStart(
     const {myShopifyDomain} = options;
     const {query} = ctx;
     const {shop} = query;
+    const {host} = ctx.request.header;
 
     const shopRegex = new RegExp(
       `^[a-z0-9][a-z0-9\\-]*[a-z0-9]\\.${myShopifyDomain}$`,
@@ -33,16 +34,13 @@ export default function createOAuthStart(
 
     const redirectString = `https://${shop}/admin/oauth/authorize?${formattedQueryString}`;
 
-    const shopRedirect = function topLevelShopRedirect (ctx: Context) {
-      ctx.body = redirectionPage({
-        origin: 'https://shiplash.herokuapp.com',
-        redirectTo: redirectString,
-        apiKey,
-      });
-    };
-
     ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '1', getCookieOptions(ctx));
-    shopRedirect(ctx);
+
+    ctx.body = redirectionPage({
+      origin: `https://${host}`,
+      redirectTo: redirectString,
+      apiKey,
+    });
 
     /*
     ctx.redirect(

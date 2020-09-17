@@ -38,7 +38,7 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="reference.settings.deploy.options" />
-    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,7 +49,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599885950386</updated>
-      <workItem from="1599885951569" duration="10154000" />
+      <workItem from="1599885951569" duration="10753000" />
+      <workItem from="1600221583611" duration="1806000" />
     </task>
     <servers />
   </component>
@@ -61,21 +62,21 @@
       <screen x="67" y="27" width="1853" height="923" />
     </state>
     <state x="839" y="379" width="298" height="217" key="#ESLint/67.27.1853.923@67.27.1853.923" timestamp="1599887643677" />
-    <state width="1807" height="236" key="GridCell.Tab.0.bottom" timestamp="1599951185252">
+    <state width="1807" height="236" key="GridCell.Tab.0.bottom" timestamp="1600003708480">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.bottom/67.27.1853.923@67.27.1853.923" timestamp="1599951185252" />
-    <state width="1807" height="236" key="GridCell.Tab.0.center" timestamp="1599951185250">
+    <state width="1807" height="236" key="GridCell.Tab.0.bottom/67.27.1853.923@67.27.1853.923" timestamp="1600003708480" />
+    <state width="1807" height="236" key="GridCell.Tab.0.center" timestamp="1600003708478">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.center/67.27.1853.923@67.27.1853.923" timestamp="1599951185250" />
-    <state width="1807" height="236" key="GridCell.Tab.0.left" timestamp="1599951185249">
+    <state width="1807" height="236" key="GridCell.Tab.0.center/67.27.1853.923@67.27.1853.923" timestamp="1600003708478" />
+    <state width="1807" height="236" key="GridCell.Tab.0.left" timestamp="1600003708477">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.left/67.27.1853.923@67.27.1853.923" timestamp="1599951185249" />
-    <state width="1807" height="236" key="GridCell.Tab.0.right" timestamp="1599951185251">
+    <state width="1807" height="236" key="GridCell.Tab.0.left/67.27.1853.923@67.27.1853.923" timestamp="1600003708477" />
+    <state width="1807" height="236" key="GridCell.Tab.0.right" timestamp="1600003708479">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.right/67.27.1853.923@67.27.1853.923" timestamp="1599951185251" />
+    <state width="1807" height="236" key="GridCell.Tab.0.right/67.27.1853.923@67.27.1853.923" timestamp="1600003708479" />
   </component>
 </project>

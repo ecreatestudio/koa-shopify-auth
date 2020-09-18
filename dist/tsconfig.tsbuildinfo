@@ -511,14 +511,9 @@
         "signature": "e8a0803d2d311b33c3eadc47e57ec48f484910d54e076549f290f9618815db3d",
         "affectsGlobalScope": false
       },
-      "../src/auth/redirection-page.ts": {
-        "version": "7a059fb340ab0aa9c6d7ce1e9a9c3edba7115a1dff2906f853d93eae295d41a0",
-        "signature": "9eac3ffcb92b345cd59918ec0e2e714dc76f0cfb15ceedd33ae2d9cb6bb168cc",
-        "affectsGlobalScope": false
-      },
       "../src/auth/create-oauth-start.ts": {
-        "version": "ed3c8ec812f7d999a695f3e582e0ab989a5d9c268d90aab224880c986ace10b0",
-        "signature": "e864cf206d12c09a14d78bfcb2bf6d9a1c05f877885a4ebcd3bc900c1364c021",
+        "version": "adc3c8dc6d9f062fb1a457c93b51ba0d2e545ffb4341d6a2cd87e811be2eb9a5",
+        "signature": "eae0c2eb878f501b5adeac98cde83d7cb2b93dd4ed46d3ee48313d892151fdae",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/safe-compare/index.d.ts": {
@@ -556,6 +551,11 @@
         "signature": "67510f94edfaa213f7d0bc716ffa2d0b68a0912976a757fc73ff3b5b4c8c9a33",
         "affectsGlobalScope": false
       },
+      "../src/auth/redirection-page.ts": {
+        "version": "7a059fb340ab0aa9c6d7ce1e9a9c3edba7115a1dff2906f853d93eae295d41a0",
+        "signature": "9eac3ffcb92b345cd59918ec0e2e714dc76f0cfb15ceedd33ae2d9cb6bb168cc",
+        "affectsGlobalScope": false
+      },
       "../src/auth/create-top-level-redirect.ts": {
         "version": "38eb6f337a138198498ed90ccd741bcb8396f0a858b0eee248f3c36a93e7b002",
         "signature": "5f4c16d73071d606af2711662a3728661c4de4938a70c0a36eaff0a1ef820363",
@@ -582,7 +582,7 @@
         "affectsGlobalScope": false
       },
       "../src/auth/index.ts": {
-        "version": "c64350242e815f3f7f9bfbd8c1ec5b6ddc418c043915433d1c6d1904ba2e55eb",
+        "version": "354f485259be0319edd411b29ad591a03018dac8fd5a2e9d862c97692bf6c705",
         "signature": "f01627382e9807956a56d5d8b2b4959826e0510b9df46fab8f2e8b2475bbdfff",
         "affectsGlobalScope": false
       },
@@ -1696,7 +1696,6 @@
         "../src/auth/errors.ts",
         "../src/auth/index.ts",
         "../src/auth/oauth-query-string.ts",
-        "../src/auth/redirection-page.ts",
         "../src/types.ts"
       ],
       "../src/auth/create-request-storage-access.ts": [

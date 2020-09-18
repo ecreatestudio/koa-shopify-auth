@@ -7,12 +7,11 @@ import oAuthQueryString from './oauth-query-string';
 import getCookieOptions from './cookie-options';
 
 import {TOP_LEVEL_OAUTH_COOKIE_NAME} from './index';
-import redirectionPage from "./redirection-page";
 
 export default function createOAuthStart(
   options: OAuthStartOptions,
   callbackPath: string,
-  apiKey: string
+  //apiKey: string
 ) {
   return function oAuthStart(ctx: Context) {
     const {myShopifyDomain} = options;

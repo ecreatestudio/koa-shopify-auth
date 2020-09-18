@@ -3,7 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="2ef728f9-71cf-40b6-b09e-637c232ebdd1" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/auth/create-oauth-start.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/auth/create-oauth-start.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/auth/create-oauth-start.d.ts.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/auth/create-oauth-start.d.ts.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/src/auth/create-oauth-start.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/src/auth/create-oauth-start.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tsconfig.tsbuildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/dist/tsconfig.tsbuildinfo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/index.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599885950386</updated>
       <workItem from="1599885951569" duration="10753000" />
-      <workItem from="1600221583611" duration="1806000" />
+      <workItem from="1600221583611" duration="2629000" />
     </task>
     <servers />
   </component>

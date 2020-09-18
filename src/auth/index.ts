@@ -41,8 +41,8 @@ export default function createShopifyAuth(options: OAuthStartOptions) {
 
   const oAuthStartPath = `${prefix}/auth`;
   const oAuthCallbackPath = `${oAuthStartPath}/callback`;
-
-  const oAuthStart = createOAuthStart(config, oAuthCallbackPath, config.apiKey);
+  // config.apiKey
+  const oAuthStart = createOAuthStart(config, oAuthCallbackPath);
   const oAuthCallback = createOAuthCallback(config);
 
   const inlineOAuthPath = `${prefix}/auth/inline`;

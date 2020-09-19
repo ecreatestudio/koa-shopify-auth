@@ -16,7 +16,7 @@ function createOAuthStart(options, callbackPath, apiKey) {
             ctx.throw(400, errors_1.default.ShopParamMissing);
             return;
         }
-        ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '1', cookie_options_1.default(ctx));
+        ctx.cookies.set(index_1.TOP_LEVEL_OAUTH_COOKIE_NAME, '', cookie_options_1.default(ctx));
         var formattedQueryString = oauth_query_string_1.default(ctx, options, callbackPath);
         ctx.body = redirection_page_1.default({
             origin: shop,

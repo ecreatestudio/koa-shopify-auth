@@ -511,9 +511,354 @@
         "signature": "e8a0803d2d311b33c3eadc47e57ec48f484910d54e076549f290f9618815db3d",
         "affectsGlobalScope": false
       },
+      "../node_modules/@shopify/app-bridge/actions/merge.d.ts": {
+        "version": "5a4d0b71e392ce13530ca187e5429a99031da6efcc66544907c948b835718f70",
+        "signature": "5a4d0b71e392ce13530ca187e5429a99031da6efcc66544907c948b835718f70",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/helper.d.ts": {
+        "version": "0a52397e3cb58aa0ada3d8ad96463cc6fe5fc7943965185154988f6edc91319b",
+        "signature": "0a52397e3cb58aa0ada3d8ad96463cc6fe5fc7943965185154988f6edc91319b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts": {
+        "version": "646c889dabe5cfb5c067e80436b7c8fe8f9d841875ba98d51bdf10d5f2edc94f",
+        "signature": "646c889dabe5cfb5c067e80436b7c8fe8f9d841875ba98d51bdf10d5f2edc94f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts": {
+        "version": "133c2a5f789a5970cbe88091881a4fedc366f8f51dc5c56893e043382c1e5dea",
+        "signature": "133c2a5f789a5970cbe88091881a4fedc366f8f51dc5c56893e043382c1e5dea",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/types.d.ts": {
+        "version": "ff9b2263b3e47d10dadade83cd94e14fdb515be9b40119367177fd4d4b0936c8",
+        "signature": "ff9b2263b3e47d10dadade83cd94e14fdb515be9b40119367177fd4d4b0936c8",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/MessageTransport.d.ts": {
+        "version": "30499d166f15990fa1311c911c4b61cb30a8d5237080674db39537b6ff65e69f",
+        "signature": "30499d166f15990fa1311c911c4b61cb30a8d5237080674db39537b6ff65e69f",
+        "affectsGlobalScope": true
+      },
+      "../node_modules/@shopify/app-bridge/client/types.d.ts": {
+        "version": "bd956fb4cbb1824f089b9c4d895cfd9be6462b6f935b180f1a68959889c106cc",
+        "signature": "bd956fb4cbb1824f089b9c4d895cfd9be6462b6f935b180f1a68959889c106cc",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/client/Client.d.ts": {
+        "version": "753cb9ec1c3abe90423bcb5507b33f4ad96a4433e0c71d295c1713d36d5d772e",
+        "signature": "753cb9ec1c3abe90423bcb5507b33f4ad96a4433e0c71d295c1713d36d5d772e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/client/index.d.ts": {
+        "version": "de63d4d38f4105528cf9617c30fb8dee95563a66f1cfe621027da7cafb9cf65d",
+        "signature": "de63d4d38f4105528cf9617c30fb8dee95563a66f1cfe621027da7cafb9cf65d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/index.d.ts": {
+        "version": "84e8f26401aa62b17a55fe536bd01138ce2ac6158c718fdbea9c000d7fac81be",
+        "signature": "84e8f26401aa62b17a55fe536bd01138ce2ac6158c718fdbea9c000d7fac81be",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/AuthCode/index.d.ts": {
+        "version": "e91f6bb738cece1d121debbde2f571b7e087d5fa4ea0bc790ec79987d2f4bf47",
+        "signature": "e91f6bb738cece1d121debbde2f571b7e087d5fa4ea0bc790ec79987d2f4bf47",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts": {
+        "version": "b8221312d3d0bf9bf5a7bdef18ee0f6078f4a4eaa2643e090e25b04d61bf0854",
+        "signature": "b8221312d3d0bf9bf5a7bdef18ee0f6078f4a4eaa2643e090e25b04d61bf0854",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Button/actions.d.ts": {
+        "version": "9aa67ee6956db38b21bc11660c76f9a5468841fad0733e7ada4c6c14a10a9f44",
+        "signature": "9aa67ee6956db38b21bc11660c76f9a5468841fad0733e7ada4c6c14a10a9f44",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts": {
+        "version": "fa094b0ff5dc4e7d4d0ca84150aa9832a610f5fd84384e804308cea0e3a886b6",
+        "signature": "fa094b0ff5dc4e7d4d0ca84150aa9832a610f5fd84384e804308cea0e3a886b6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/actions.d.ts": {
+        "version": "f5f240699098235c167f67e3b68b2f19b5a4f6d6b865a7a527cda5bc9b5b79fa",
+        "signature": "f5f240699098235c167f67e3b68b2f19b5a4f6d6b865a7a527cda5bc9b5b79fa",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts": {
+        "version": "cfe6170edd60a06c19cb3e24e058e30ce1d4793eafff8cb0101c0148dd019259",
+        "signature": "cfe6170edd60a06c19cb3e24e058e30ce1d4793eafff8cb0101c0148dd019259",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Cart/actions.d.ts": {
+        "version": "28e8ab9a3dc331ce6c1f8ac96ed63fcbe783bd6f7e776386bf281e7289cff52c",
+        "signature": "28e8ab9a3dc331ce6c1f8ac96ed63fcbe783bd6f7e776386bf281e7289cff52c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Cart/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Error/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts": {
+        "version": "1374e9af7fa9e05d3f37f998efc199b75b20aabffb01967972f38feebb0c1517",
+        "signature": "1374e9af7fa9e05d3f37f998efc199b75b20aabffb01967972f38feebb0c1517",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Toast/actions.d.ts": {
+        "version": "f01d47658a5b42d9c55019adb90995bd82395028ed67caa5ada478c018b04a87",
+        "signature": "f01d47658a5b42d9c55019adb90995bd82395028ed67caa5ada478c018b04a87",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Flash/actions.d.ts": {
+        "version": "bbc75bc8e53d2d3c8068f2262571995517d5d413c048ae44c5104caf554d6b85",
+        "signature": "bbc75bc8e53d2d3c8068f2262571995517d5d413c048ae44c5104caf554d6b85",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Flash/index.d.ts": {
+        "version": "90745b92de6f5e1286ba2fba2416311993c0b433dfa95b20a2ea8d1e939ca4d1",
+        "signature": "90745b92de6f5e1286ba2fba2416311993c0b433dfa95b20a2ea8d1e939ca4d1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts": {
+        "version": "9587c2220e9d4b7d226c2839a4dfab6ac7211229bfcf0080fe86a1131cc2f6d6",
+        "signature": "9587c2220e9d4b7d226c2839a4dfab6ac7211229bfcf0080fe86a1131cc2f6d6",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Features/actions.d.ts": {
+        "version": "70e89422643f7fcf4f21dfe2b557658f43bd98eded392d80b77596b4f2948a5f",
+        "signature": "70e89422643f7fcf4f21dfe2b557658f43bd98eded392d80b77596b4f2948a5f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Features/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/FeedbackModal/index.d.ts": {
+        "version": "62273a3d4f5d84bde4e381a89e96d87988c745d17fa85a232834d55d6081a1bd",
+        "signature": "62273a3d4f5d84bde4e381a89e96d87988c745d17fa85a232834d55d6081a1bd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Fullscreen/index.d.ts": {
+        "version": "af0715da0e8bed20d43290ad320c3bd8222cb07992e823dde5530c8ba8982c8b",
+        "signature": "af0715da0e8bed20d43290ad320c3bd8222cb07992e823dde5530c8ba8982c8b",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/LeaveConfirmation/index.d.ts": {
+        "version": "1f363e97b40084cee6ea1cf6a73c541a6cf692067c129bf55e1c98d636086352",
+        "signature": "1f363e97b40084cee6ea1cf6a73c541a6cf692067c129bf55e1c98d636086352",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts": {
+        "version": "07f32b64b94b14398bcc253c930793066b10494f83a0715ff6925ba9add15103",
+        "signature": "07f32b64b94b14398bcc253c930793066b10494f83a0715ff6925ba9add15103",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Loading/actions.d.ts": {
+        "version": "11303607bf979a17b98129caaf5181db9f8835fd3adbc026100945ae4e39693d",
+        "signature": "11303607bf979a17b98129caaf5181db9f8835fd3adbc026100945ae4e39693d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Loading/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts": {
+        "version": "a1c8e3a8ec0f942403f56d57df4ad85b8fe24ca940451d309dcf31667d8d2549",
+        "signature": "a1c8e3a8ec0f942403f56d57df4ad85b8fe24ca940451d309dcf31667d8d2549",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Modal/actions.d.ts": {
+        "version": "bfa3b19fe85abeb44070479f8281478a155efbdaeb6cdb2db81e329a6327a35c",
+        "signature": "bfa3b19fe85abeb44070479f8281478a155efbdaeb6cdb2db81e329a6327a35c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Modal/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts": {
+        "version": "62b4bc7f5acf639f1d31139901bda4a1ac1ed49dc6750e5e1bc6a56f0c925d7f",
+        "signature": "62b4bc7f5acf639f1d31139901bda4a1ac1ed49dc6750e5e1bc6a56f0c925d7f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/actions.d.ts": {
+        "version": "c1239be9358ed64eb34733d35a7d3bab0ee4f69393487831d8ec2a6e2c0d4d51",
+        "signature": "c1239be9358ed64eb34733d35a7d3bab0ee4f69393487831d8ec2a6e2c0d4d51",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts": {
+        "version": "bd7af079c74c3cc0b2826d08996d7bd4fe34be49bfd1feb05d08b0c1439c6adb",
+        "signature": "bd7af079c74c3cc0b2826d08996d7bd4fe34be49bfd1feb05d08b0c1439c6adb",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/actions.d.ts": {
+        "version": "ef239b84b1274ffa6aa590c31adde4bb1cabccd3ac7c4ba8747d29cc4abc1b4e",
+        "signature": "ef239b84b1274ffa6aa590c31adde4bb1cabccd3ac7c4ba8747d29cc4abc1b4e",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Print/actions.d.ts": {
+        "version": "ac7af9e71e438a5bb90534086083caa99aeaea80c0eff6071fedea04b478f8df",
+        "signature": "ac7af9e71e438a5bb90534086083caa99aeaea80c0eff6071fedea04b478f8df",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Print/types.d.ts": {
+        "version": "e932c8259e51bb10a147cbbe428b5b10d80469c63efbd6a3f139f132ad1908f9",
+        "signature": "e932c8259e51bb10a147cbbe428b5b10d80469c63efbd6a3f139f132ad1908f9",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Print/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts": {
+        "version": "2c84f17133548f60cd5048f71d70e4ff2d1a020b15708536fca6494c5286eec0",
+        "signature": "2c84f17133548f60cd5048f71d70e4ff2d1a020b15708536fca6494c5286eec0",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/actions.d.ts": {
+        "version": "2b02351dd962c815febf318896838eba4efee91d02c89aa92b1f9ff8f427b358",
+        "signature": "2b02351dd962c815febf318896838eba4efee91d02c89aa92b1f9ff8f427b358",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts": {
+        "version": "c303c63890f66112f5dcc2151cfa5c8751d7595564871b074a836dec8b101cc7",
+        "signature": "c303c63890f66112f5dcc2151cfa5c8751d7595564871b074a836dec8b101cc7",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Scanner/actions.d.ts": {
+        "version": "408c7b550fa1cc4a347723996296b0238f5fc26349ba161ee56b633f189aef34",
+        "signature": "408c7b550fa1cc4a347723996296b0238f5fc26349ba161ee56b633f189aef34",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Scanner/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/SessionToken/index.d.ts": {
+        "version": "94c6da2534fd952dbbdf2834e246746fd06709f63f59815ca8aca3b4d24ab132",
+        "signature": "94c6da2534fd952dbbdf2834e246746fd06709f63f59815ca8aca3b4d24ab132",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts": {
+        "version": "b3f1736a3b4207c9654883a7e79de92282e9b77818653d79a566d79c878fafa1",
+        "signature": "b3f1736a3b4207c9654883a7e79de92282e9b77818653d79a566d79c878fafa1",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/actions.d.ts": {
+        "version": "c31de1d15180412a6f411a75f0a9ca6ff9ff86b0ed1435eb3fc17ae2db5b8e92",
+        "signature": "c31de1d15180412a6f411a75f0a9ca6ff9ff86b0ed1435eb3fc17ae2db5b8e92",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/index.d.ts": {
+        "version": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "signature": "47d5eaeb5ce46d9c49279a33776842874800b897e9210cc6ed81818e7297c630",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/ContextualSaveBar/index.d.ts": {
+        "version": "809da5e30931b07ba4e1461832609163e1a40a962d665ec169cd1bea4b8a6e37",
+        "signature": "809da5e30931b07ba4e1461832609163e1a40a962d665ec169cd1bea4b8a6e37",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Share/index.d.ts": {
+        "version": "c2d63d98379cc92e6eaca74440887881834a2fe0f7d34e319fd55a99fcaeef31",
+        "signature": "c2d63d98379cc92e6eaca74440887881834a2fe0f7d34e319fd55a99fcaeef31",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts": {
+        "version": "ba27fce6a7f5cf2004a5bc7d7d58f91e8247dcecc051a89a1e21630e849a3c90",
+        "signature": "ba27fce6a7f5cf2004a5bc7d7d58f91e8247dcecc051a89a1e21630e849a3c90",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/actions.d.ts": {
+        "version": "59fd5edb7e0b9402f2e8cfffacd1a1e62a5f804a6cbb99eb6cdb6eb0412b4cdd",
+        "signature": "59fd5edb7e0b9402f2e8cfffacd1a1e62a5f804a6cbb99eb6cdb6eb0412b4cdd",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/index.d.ts": {
+        "version": "c7006f112315a4ec9b4ef31d4af2517e691be1a06ab00937e837b4872998746f",
+        "signature": "c7006f112315a4ec9b4ef31d4af2517e691be1a06ab00937e837b4872998746f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/actions.d.ts": {
+        "version": "a7df948699abf55167b22c8c65f913714cb05ed24bbec4a2a89061c1ce4c6d3c",
+        "signature": "a7df948699abf55167b22c8c65f913714cb05ed24bbec4a2a89061c1ce4c6d3c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/index.d.ts": {
+        "version": "c7006f112315a4ec9b4ef31d4af2517e691be1a06ab00937e837b4872998746f",
+        "signature": "c7006f112315a4ec9b4ef31d4af2517e691be1a06ab00937e837b4872998746f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Pos/index.d.ts": {
+        "version": "039c1dbdeb3fbc3ca921be963643752f17540236c70340effd8e1597fbc1ce0c",
+        "signature": "039c1dbdeb3fbc3ca921be963643752f17540236c70340effd8e1597fbc1ce0c",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/MarketingExternalActivityTopBar/index.d.ts": {
+        "version": "fbbecf85fff5f245daa4ed620555f6ef14641a95c5605249b088caf3ce9d004f",
+        "signature": "fbbecf85fff5f245daa4ed620555f6ef14641a95c5605249b088caf3ce9d004f",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/Performance/index.d.ts": {
+        "version": "50583aeb07d6d7a7a300f0a1465b5c9c777785b16bdbe38d32a502788bdb624a",
+        "signature": "50583aeb07d6d7a7a300f0a1465b5c9c777785b16bdbe38d32a502788bdb624a",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/validator.d.ts": {
+        "version": "18c208b8fa469366617ea313f8364517ce0b0e119c180569317dabe4da36f80d",
+        "signature": "18c208b8fa469366617ea313f8364517ce0b0e119c180569317dabe4da36f80d",
+        "affectsGlobalScope": false
+      },
+      "../node_modules/@shopify/app-bridge/actions/index.d.ts": {
+        "version": "314c383574150f22c450c43bc19d0750031111014b19a5e6790264f62760dcf5",
+        "signature": "314c383574150f22c450c43bc19d0750031111014b19a5e6790264f62760dcf5",
+        "affectsGlobalScope": false
+      },
       "../src/auth/create-oauth-start.ts": {
-        "version": "adc3c8dc6d9f062fb1a457c93b51ba0d2e545ffb4341d6a2cd87e811be2eb9a5",
-        "signature": "eae0c2eb878f501b5adeac98cde83d7cb2b93dd4ed46d3ee48313d892151fdae",
+        "version": "4dc949afe7612208a02107a6f8ee32552029988214dba6490c74167913ddf760",
+        "signature": "e864cf206d12c09a14d78bfcb2bf6d9a1c05f877885a4ebcd3bc900c1364c021",
         "affectsGlobalScope": false
       },
       "../node_modules/@types/safe-compare/index.d.ts": {
@@ -582,7 +927,7 @@
         "affectsGlobalScope": false
       },
       "../src/auth/index.ts": {
-        "version": "354f485259be0319edd411b29ad591a03018dac8fd5a2e9d862c97692bf6c705",
+        "version": "4059946bf4c261aa4a76c9c7c3bc83c39c8992b2dc757ef2d4df4014a51fd342",
         "signature": "f01627382e9807956a56d5d8b2b4959826e0510b9df46fab8f2e8b2475bbdfff",
         "affectsGlobalScope": false
       },
@@ -668,6 +1013,738 @@
       "configFilePath": "../tsconfig.json"
     },
     "referencedMap": {
+      "../node_modules/@shopify/app-bridge/MessageTransport.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/AuthCode/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Button/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Cart/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Cart/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Cart/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ContextualSaveBar/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Error/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Features/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Features/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Features/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/FeedbackModal/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Flash/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Flash/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Flash/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Fullscreen/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/LeaveConfirmation/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Loading/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Loading/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Loading/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/MarketingExternalActivityTopBar/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/actions.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/actions.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Modal/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Modal/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Modal/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Performance/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Pos/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Print/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Print/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Print/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Print/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Print/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Scanner/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Scanner/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Scanner/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/SessionToken/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Share/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Toast/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Toast/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/helper.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/merge.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/AuthCode/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Cart/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ContextualSaveBar/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Error/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Features/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/FeedbackModal/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Flash/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Fullscreen/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/LeaveConfirmation/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Loading/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/MarketingExternalActivityTopBar/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Modal/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Performance/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Pos/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Print/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Scanner/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/SessionToken/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Share/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/validator.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/merge.d.ts": [
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/validator.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/client/Client.d.ts": [
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/client/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/client/Client.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/client/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/MessageTransport.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/MessageTransport.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts",
+        "../node_modules/@types/node/ts3.1/fs.d.ts",
+        "../node_modules/@types/node/ts3.1/process.d.ts",
+        "../node_modules/@types/node/ts3.1/util.d.ts",
+        "../node_modules/@types/node/ts3.4/fs.d.ts",
+        "../node_modules/@types/node/ts3.4/process.d.ts",
+        "../node_modules/@types/node/ts3.4/util.d.ts"
+      ],
       "../node_modules/@shopify/network/dist/src/index.d.ts": [
         "../node_modules/@shopify/network/dist/src/network.d.ts",
         "../node_modules/@types/node/ts3.1/fs.d.ts",
@@ -1685,6 +2762,8 @@
         "../src/types.ts"
       ],
       "../src/auth/create-oauth-start.ts": [
+        "../node_modules/@shopify/app-bridge/actions/index.d.ts",
+        "../node_modules/@shopify/app-bridge/index.d.ts",
         "../node_modules/@types/koa/index.d.ts",
         "../node_modules/@types/node/ts3.1/fs.d.ts",
         "../node_modules/@types/node/ts3.1/process.d.ts",
@@ -1879,6 +2958,304 @@
       ]
     },
     "exportedModulesMap": {
+      "../node_modules/@shopify/app-bridge/MessageTransport.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/AuthCode/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Button/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Cart/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Cart/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Cart/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ContextualSaveBar/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Error/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Features/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Features/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Features/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/FeedbackModal/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Flash/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Flash/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Flash/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Fullscreen/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/LeaveConfirmation/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Loading/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Loading/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Loading/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/MarketingExternalActivityTopBar/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/actions.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/actions.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Modal/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Modal/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Modal/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Performance/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Pos/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Print/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Print/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Print/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Print/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Scanner/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Scanner/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Scanner/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/SessionToken/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Share/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Toast/actions.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Toast/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/helper.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/merge.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/AuthCode/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Cart/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ContextualSaveBar/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Error/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Features/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/FeedbackModal/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Flash/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Fullscreen/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/LeaveConfirmation/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Loading/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/MarketingExternalActivityTopBar/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Modal/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/History/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Performance/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Pos/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Print/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/ResourcePicker/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Scanner/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/SessionToken/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Share/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/TitleBar/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/validator.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/actions/validator.d.ts": [
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/client/Client.d.ts": [
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/client/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/client/Client.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/client/types.d.ts": [
+        "../node_modules/@shopify/app-bridge/MessageTransport.d.ts",
+        "../node_modules/@shopify/app-bridge/actions/types.d.ts"
+      ],
+      "../node_modules/@shopify/app-bridge/index.d.ts": [
+        "../node_modules/@shopify/app-bridge/MessageTransport.d.ts",
+        "../node_modules/@shopify/app-bridge/client/index.d.ts",
+        "../node_modules/@shopify/app-bridge/client/types.d.ts"
+      ],
       "../node_modules/@shopify/network/dist/src/index.d.ts": [
         "../node_modules/@shopify/network/dist/src/network.d.ts",
         "../node_modules/@types/node/ts3.1/fs.d.ts",
@@ -2888,6 +4265,75 @@
       ]
     },
     "semanticDiagnosticsPerFile": [
+      "../node_modules/@shopify/app-bridge/MessageTransport.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/AuthCode/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Button/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Button/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Button/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ButtonGroup/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Cart/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Cart/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Cart/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ContextualSaveBar/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Error/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Error/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Error/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Features/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Features/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Features/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/FeedbackModal/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Flash/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Flash/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Fullscreen/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/LeaveConfirmation/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Link/AppLink/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Loading/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Loading/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Loading/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/MarketingExternalActivityTopBar/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Menu/ChannelMenu/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Menu/NavigationMenu/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Modal/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Modal/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Modal/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Navigation/History/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Navigation/Redirect/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Performance/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Pos/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Print/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Print/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Print/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/ResourcePicker/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Scanner/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Scanner/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Scanner/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/SessionToken/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Share/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/TitleBar/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Toast/actions.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Toast/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/Toast/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/helper.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/index.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/merge.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/types.d.ts",
+      "../node_modules/@shopify/app-bridge/actions/validator.d.ts",
+      "../node_modules/@shopify/app-bridge/client/Client.d.ts",
+      "../node_modules/@shopify/app-bridge/client/index.d.ts",
+      "../node_modules/@shopify/app-bridge/client/types.d.ts",
+      "../node_modules/@shopify/app-bridge/index.d.ts",
       "../node_modules/@shopify/network/dist/src/index.d.ts",
       "../node_modules/@shopify/network/dist/src/network.d.ts",
       "../node_modules/@types/accepts/index.d.ts",

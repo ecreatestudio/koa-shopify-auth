@@ -29,8 +29,7 @@ function createShopifyAuth(options) {
     var prefix = config.prefix;
     var oAuthStartPath = prefix + "/auth";
     var oAuthCallbackPath = oAuthStartPath + "/callback";
-    // config.apiKey
-    var oAuthStart = create_oauth_start_1.default(config, oAuthCallbackPath);
+    var oAuthStart = create_oauth_start_1.default(config, oAuthCallbackPath, config.apiKey);
     var oAuthCallback = create_oauth_callback_1.default(config);
     var inlineOAuthPath = prefix + "/auth/inline";
     var topLevelOAuthRedirect = create_top_level_oauth_redirect_1.default(config.apiKey, inlineOAuthPath);

@@ -1192,6 +1192,11 @@
     "@types/yargs" "^15.0.0"
     chalk "^4.0.0"
 
+"@shopify/app-bridge@^1.27.2":
+  version "1.27.2"
+  resolved "https://registry.yarnpkg.com/@shopify/app-bridge/-/app-bridge-1.27.2.tgz#334d5edfb7c12fa13218416e2fbffedefef83732"
+  integrity sha512-VpY+8/r1fLrjbiUMnm5z6AU3bMZrA2CZwwkHxkLkcuFze54QIF5KwD+7sC13JTTK9XBT1wO9wJ4EJb//8MCU/A==
+
 "@shopify/async@^2.1.5":
   version "2.1.5"
   resolved "https://registry.yarnpkg.com/@shopify/async/-/async-2.1.5.tgz#c55abfdb40b19435f65f9a7fe61f91117af0b9af"
@@ -1519,11 +1524,6 @@ ajv@^6.10.0, ajv@^6.10.2, ajv@^6.12.3, ajv@^6.12.4:
   version "6.12.4"
   resolved "https://registry.yarnpkg.com/ajv/-/ajv-6.12.4.tgz#0614facc4522127fa713445c6bfd3ebd376e2234"
   integrity sha512-eienB2c9qVQs2KWexhkrdMLVDoIQCz5KSeLxwg9Lzk4DOfBtIK9PQwwufcsn1jjGuf9WZmqPMbGxOzfcuphJCQ==
-  dependencies:
-    fast-deep-equal "^3.1.1"
-    fast-json-stable-stringify "^2.0.0"
-    json-schema-traverse "^0.4.1"
-    uri-js "^4.2.2"
 
 ansi-colors@^4.1.1:
   version "4.1.1"

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ef728f9-71cf-40b6-b09e-637c232ebdd1" name="Default Changelist" comment="" />
+    <list default="true" id="2ef728f9-71cf-40b6-b09e-637c232ebdd1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/auth/create-oauth-start.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +51,7 @@
       <updated>1599885950386</updated>
       <workItem from="1599885951569" duration="10753000" />
       <workItem from="1600221583611" duration="3225000" />
-      <workItem from="1600470291810" duration="2356000" />
+      <workItem from="1600470291810" duration="8494000" />
     </task>
     <servers />
   </component>
@@ -60,21 +63,21 @@
       <screen x="67" y="27" width="1853" height="923" />
     </state>
     <state x="839" y="379" width="298" height="217" key="#ESLint/67.27.1853.923@67.27.1853.923" timestamp="1599887643677" />
-    <state width="1807" height="236" key="GridCell.Tab.0.bottom" timestamp="1600003708480">
+    <state width="1807" height="236" key="GridCell.Tab.0.bottom" timestamp="1600478239868">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.bottom/67.27.1853.923@67.27.1853.923" timestamp="1600003708480" />
-    <state width="1807" height="236" key="GridCell.Tab.0.center" timestamp="1600003708478">
+    <state width="1807" height="236" key="GridCell.Tab.0.bottom/67.27.1853.923@67.27.1853.923" timestamp="1600478239868" />
+    <state width="1807" height="236" key="GridCell.Tab.0.center" timestamp="1600478239867">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.center/67.27.1853.923@67.27.1853.923" timestamp="1600003708478" />
-    <state width="1807" height="236" key="GridCell.Tab.0.left" timestamp="1600003708477">
+    <state width="1807" height="236" key="GridCell.Tab.0.center/67.27.1853.923@67.27.1853.923" timestamp="1600478239867" />
+    <state width="1807" height="236" key="GridCell.Tab.0.left" timestamp="1600478239866">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.left/67.27.1853.923@67.27.1853.923" timestamp="1600003708477" />
-    <state width="1807" height="236" key="GridCell.Tab.0.right" timestamp="1600003708479">
+    <state width="1807" height="236" key="GridCell.Tab.0.left/67.27.1853.923@67.27.1853.923" timestamp="1600478239866" />
+    <state width="1807" height="236" key="GridCell.Tab.0.right" timestamp="1600478239867">
       <screen x="67" y="27" width="1853" height="923" />
     </state>
-    <state width="1807" height="236" key="GridCell.Tab.0.right/67.27.1853.923@67.27.1853.923" timestamp="1600003708479" />
+    <state width="1807" height="236" key="GridCell.Tab.0.right/67.27.1853.923@67.27.1853.923" timestamp="1600478239867" />
   </component>
 </project>

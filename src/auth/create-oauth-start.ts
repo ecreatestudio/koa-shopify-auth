@@ -7,9 +7,7 @@ import oAuthQueryString from './oauth-query-string';
 import getCookieOptions from './cookie-options';
 
 import {TOP_LEVEL_OAUTH_COOKIE_NAME} from './index';
-
-import createApp from '@shopify/app-bridge';
-import {Redirect} from '@shopify/app-bridge/actions';
+import redirectionPage from "./redirection-page";
 
 export default function createOAuthStart(
   options: OAuthStartOptions,
@@ -26,29 +24,27 @@ export default function createOAuthStart(
       'i',
     );
 
-    const app = createApp({
-      apiKey: apiKey,
-      shopOrigin: shop,
-    });
-
-    const redirect = Redirect.create(app);
-
     if (shop == null || !shopRegex.test(shop)) {
       ctx.throw(400, Error.ShopParamMissing);
       return;
     }
 
-    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
+    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '1', getCookieOptions(ctx));
 
     const formattedQueryString = oAuthQueryString(ctx, options, callbackPath);
+
+    ctx.body = redirectionPage({
+      origin: shop,
+      redirectTo: `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,
+      apiKey,
+    });
+
+    return;
 
     /*
     ctx.redirect(
       `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,
     );
     */
-
-    redirect.dispatch(Redirect.Action.REMOTE, `https://${shop}/admin/oauth/authorize?${formattedQueryString}`);
-
   };
 }

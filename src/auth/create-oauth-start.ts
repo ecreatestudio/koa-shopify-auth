@@ -29,7 +29,7 @@ export default function createOAuthStart(
       return;
     }
 
-    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '1', getCookieOptions(ctx));
+    ctx.cookies.set(TOP_LEVEL_OAUTH_COOKIE_NAME, '', getCookieOptions(ctx));
 
     const formattedQueryString = oAuthQueryString(ctx, options, callbackPath);
 

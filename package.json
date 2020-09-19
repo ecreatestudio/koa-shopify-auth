@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/Shopify/koa-shopify-auth/README.md",
   "dependencies": {
-    "@shopify/app-bridge": "^1.27.2",
     "@shopify/network": "^1.5.0",
     "koa-compose": ">=3.0.0 <4.0.0",
     "nonce": "^1.0.4",

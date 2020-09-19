@@ -8,10 +8,13 @@ import getCookieOptions from './cookie-options';
 
 import {TOP_LEVEL_OAUTH_COOKIE_NAME} from './index';
 
+import createApp from '@shopify/app-bridge';
+import {Redirect} from '@shopify/app-bridge/actions';
+
 export default function createOAuthStart(
   options: OAuthStartOptions,
   callbackPath: string,
-  //apiKey: string
+  apiKey: string
 ) {
   return function oAuthStart(ctx: Context) {
     const {myShopifyDomain} = options;
@@ -23,6 +26,13 @@ export default function createOAuthStart(
       'i',
     );
 
+    const app = createApp({
+      apiKey: apiKey,
+      shopOrigin: shop,
+    });
+
+    const redirect = Redirect.create(app);
+
     if (shop == null || !shopRegex.test(shop)) {
       ctx.throw(400, Error.ShopParamMissing);
       return;
@@ -32,8 +42,13 @@ export default function createOAuthStart(
 
     const formattedQueryString = oAuthQueryString(ctx, options, callbackPath);
 
+    /*
     ctx.redirect(
       `https://${shop}/admin/oauth/authorize?${formattedQueryString}`,
     );
+    */
+
+    redirect.dispatch(Redirect.Action.REMOTE, `https://${shop}/admin/oauth/authorize?${formattedQueryString}`);
+
   };
 }

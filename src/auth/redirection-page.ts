@@ -13,6 +13,7 @@ export default function redirectionScript({origin, redirectTo, apiKey}) {
           var app = createApp({
             apiKey: "${apiKey}",
             shopOrigin: "${encodeURI(origin)}",
+            forceRedirect: true,
           });
           var redirect = Redirect.create(app);
           redirect.dispatch(Redirect.Action.REMOTE, "${redirectTo}");

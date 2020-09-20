@@ -487,7 +487,7 @@
         "affectsGlobalScope": false
       },
       "../src/auth/redirection-page.ts": {
-        "version": "7a059fb340ab0aa9c6d7ce1e9a9c3edba7115a1dff2906f853d93eae295d41a0",
+        "version": "72919cf5b96a902a66ce47976fa821470a30c2b7def188746f91eb83f106670f",
         "signature": "9eac3ffcb92b345cd59918ec0e2e714dc76f0cfb15ceedd33ae2d9cb6bb168cc",
         "affectsGlobalScope": false
       },

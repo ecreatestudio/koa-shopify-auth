@@ -15,11 +15,7 @@ export default function redirectionScript({origin, redirectTo, apiKey}) {
             shopOrigin: "${encodeURI(origin)}",
           });
           var redirect = Redirect.create(app);
-          //redirect.dispatch(Redirect.Action.REMOTE, "${redirectTo}");
-          redirect.dispatch(Redirect.Action.REMOTE, {
-            url: "${redirectTo}",
-            newContext: true,
-          });
+          redirect.dispatch(Redirect.Action.REMOTE, "${redirectTo}");
         }
       });
     </script>
